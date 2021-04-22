@@ -1,0 +1,48 @@
+.Purple{
+    color: rgb(11, 12, 11);
+    background-color: rgb(0, 255, 0);
+    margin: 0px;
+    width: 100%;
+    padding: 10px;
+    text-decoration: bold;
+}
+.note{
+    font-size: 20px;
+    color: rgb(255, 81, 0);
+    
+}
+body{
+    background-size: cover;
+}
+.div_speed{
+    float: left;
+    
+}
+.div_speed_img{
+    width: 250px;
+    border-radius:101px;
+}
+#speed{
+    font-size: 17px;
+    margin: 20px;
+}
+.div_volume{
+    float: right;
+    
+}
+.div_volume_img{
+    width: 250px;
+    border-radius:101px;
+}
+.play_button{
+   color: rgb(0, 255, 0);
+   background-color: rgb(0, 0, 0);
+   font-weight: bolder;
+   font-size: 25px;
+} 
+canvas{
+    border-radius: 25px;
+    border : 5px solid rgb(0, 38, 255);
+
+
+}
